@@ -41,8 +41,8 @@ Access the application in your web browser at http://127.0.0.1:8000/.
 
 ### Usage
 Navigate to the employee registration page.
-Click on "Add Employee" to create a new employee record.
-Click on "View Employees" to see a list of all employee records.
+Click on "Add New" to create a new employee record.
+Click on "Back To List" to see a list of all employee records.
 Use the "Edit" and "Delete" buttons to modify or remove employee records.
 
 # Demo
